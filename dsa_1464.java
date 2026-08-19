@@ -20,6 +20,8 @@ public class dsa_1464 {
     public static void main(String[] args) {
         int[] nums={3,2,4,5};
         int output=maxProduct(nums);
+        
         System.out.println("output is: "+output);
+        
     }
 }
